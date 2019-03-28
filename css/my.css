@@ -16,3 +16,6 @@
 	vertical-align:middle;
 	box-shadow:none !important;
 }
+.widget-area .widget a{
+	color:rgb(88, 88, 88);
+}
